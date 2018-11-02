@@ -4,7 +4,7 @@
 #
 Name     : filelock
 Version  : 3.0.4
-Release  : 1
+Release  : 2
 URL      : https://github.com/benediktschmitt/py-filelock/archive/v3.0.4.tar.gz
 Source0  : https://github.com/benediktschmitt/py-filelock/archive/v3.0.4.tar.gz
 Summary  : No detailed summary available
