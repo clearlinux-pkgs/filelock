@@ -4,7 +4,7 @@
 #
 Name     : filelock
 Version  : 3.0.12
-Release  : 7
+Release  : 8
 URL      : https://github.com/benediktschmitt/py-filelock/archive/v3.0.12/py-filelock-3.0.12.tar.gz
 Source0  : https://github.com/benediktschmitt/py-filelock/archive/v3.0.12/py-filelock-3.0.12.tar.gz
 Summary  : No detailed summary available
