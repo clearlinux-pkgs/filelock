@@ -4,7 +4,7 @@
 #
 Name     : filelock
 Version  : 3.4.0
-Release  : 29
+Release  : 30
 URL      : https://files.pythonhosted.org/packages/79/3f/aae4a951dc5bd2738901e053c057f4b317bf12199f09351f63a002442117/filelock-3.4.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/79/3f/aae4a951dc5bd2738901e053c057f4b317bf12199f09351f63a002442117/filelock-3.4.0.tar.gz
 Summary  : A platform independent file lock.
